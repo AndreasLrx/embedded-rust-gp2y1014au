@@ -16,4 +16,4 @@ repository = "https://github.com/melodyaheath/embedded-rust-gp2y1014au"
 
 [dependencies]
 embedded-hal= { version = "0.2.*", features=["unproven"]}
-nb="1.0.*"
+nb="1.1.*"
